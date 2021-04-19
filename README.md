@@ -16,6 +16,6 @@ API - [https://covid19.mathdro.id/api](https://covid19.mathdro.id/api)
 
 ### `Host & Deploy - Netlify`
 
-URL - []()
+URL - [https://trusting-ride-e7c618.netlify.app/](https://trusting-ride-e7c618.netlify.app/)
 
 # React-COVID_19_Tracker_Application
